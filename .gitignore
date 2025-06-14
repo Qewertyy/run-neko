@@ -1,0 +1,16 @@
+# Xcode\
+build/\
+DerivedData/\
+*.xcworkspace\
+xcuserdata/
+*.xccheckout\
+*.xcuserstate\
+\
+# SwiftPM\
+.build/\
+\
+# Assets\
+*.ico\
+*.icns\
+}
+.DS_Store
